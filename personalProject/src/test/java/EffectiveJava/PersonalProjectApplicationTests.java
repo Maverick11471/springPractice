@@ -1,4 +1,4 @@
-package com.bit.personalproject;
+package EffectiveJava;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

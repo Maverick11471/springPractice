@@ -1,6 +1,5 @@
-package com.bit.personalproject.item1;
+package EffectiveJava.item1;
 
-import java.lang.reflect.Array;
 import java.util.Calendar;
 import java.util.Date;
 

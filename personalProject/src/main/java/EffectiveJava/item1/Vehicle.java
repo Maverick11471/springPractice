@@ -1,4 +1,4 @@
-package com.bit.personalproject.item1;
+package EffectiveJava.item1;
 
 public class Vehicle {
 
