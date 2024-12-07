@@ -8,6 +8,6 @@ public class StudentExample {
 
         int[] intArray = new int[5];
         System.out.println(intArray);
-        // 배열 주소
+        // 배열 주소 추가
     }
 }
