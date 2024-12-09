@@ -6,6 +6,7 @@ public class StudentExample {
         Student s1 = new Student();
         System.out.println(s1);
 
+        // 확인
         int[] intArray = new int[5];
         System.out.println(intArray);
         // 배열 주소 추가
