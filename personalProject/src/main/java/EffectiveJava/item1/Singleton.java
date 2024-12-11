@@ -2,18 +2,12 @@ package EffectiveJava.item1;
 
 public class Singleton {
 
-    private static final Singleton instance = new Singleton();
+    private static Singleton singleton = new Singleton();
 
-    private Singleton(){
-        System.out.println("Singleton instance created.");
-    }
+    private Singleton(){};
 
     public static Singleton getInstance(){
-        return instance;
-    }
-
-    public void performAction() {
-        System.out.println("Action performed by singleton instance.");
+        return singleton;
     }
 
 }
