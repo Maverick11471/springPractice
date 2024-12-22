@@ -9,7 +9,7 @@ public class GetPropertyExample {
     String osName = System.getProperty("os.name");
         System.out.println(osName);
         System.out.println(System.getProperty("java.home"));
-        System.out.println(System.getProperty("java.specification.version"));;/''
+        System.out.println(System.getProperty("java.specification.version"));
 
         Properties props = System.getProperties();
         Set keys = props.keySet();
