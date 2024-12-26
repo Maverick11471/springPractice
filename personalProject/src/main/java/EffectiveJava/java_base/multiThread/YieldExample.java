@@ -15,6 +15,8 @@ public class YieldExample {
         } catch (InterruptedException e){}
         workThreadA.work = false;
 
+        // 확인
+
         try{
             Thread.sleep(10000);
         } catch (InterruptedException e){}
