@@ -7,4 +7,5 @@ public class MethodReferenceExample {
 
     person.ordering(String :: compareToIgnoreCase);
     }
+    //테스트
 }
