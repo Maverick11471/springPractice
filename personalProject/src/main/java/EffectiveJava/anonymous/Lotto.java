@@ -27,6 +27,7 @@ public class Lotto {
                     .forEach(n -> System.out.print(n + " "));
             System.out.println();
         }
+        //
 
     }
 }
