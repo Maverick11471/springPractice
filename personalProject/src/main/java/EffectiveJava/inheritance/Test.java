@@ -1,5 +1,5 @@
 package EffectiveJava.inheritance;
 
 public class Test {
- // 추가 23
+ // 추가 234
 }
